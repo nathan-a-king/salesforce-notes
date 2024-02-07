@@ -16,7 +16,8 @@
     - 15-digit is case sensitive
     - 18-digit is **not** case sensitive
 
-  public class QuickActionHandler {
+```js
+public class QuickActionHandler {
 
     // Define the method that will be executed when the Quick Action is clicked
     public static void executeQuickAction(List<sObject> records) {
@@ -41,6 +42,7 @@
         // Make sure to replace YourObject__c with the actual API name of your object.
     }
 }
+```
 
 In this code:
 
