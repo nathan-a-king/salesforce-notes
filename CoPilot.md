@@ -7,5 +7,5 @@
 # Keyboard Shortcuts
 
 - Toggle suggestions - `CMD` + `SPACE`
-- Accept suggesstion - `TAB` or `ENTER`
+- Accept suggestion - `TAB` or `ENTER`
 - Show documentation - `CMD` + `SHIFT` + `H`
